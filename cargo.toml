@@ -1,0 +1,7 @@
+[package]
+name = "hacking"
+version = "0.1.0"
+
+[dependencies]
+rand = "0.8.5"
+crossterm = "0.25.0"
